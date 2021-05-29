@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "name": "yash",
+      "email": "yash@gmail.com",
+      "mobile": "7030303707",
+      "password": "yash123",
+      "confirmPassword": "yash123",
+      "id": 1
+    },
+    {
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "confirmPassword": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "confirmPassword": "",
+      "id": 3
+    },
+    {
+      "name": "pushpak",
+      "email": "p@cybage.com",
+      "mobile": "12345678",
+      "password": "pushpak1",
+      "confirmPassword": "qwertyyu",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "confirmPassword": "",
+      "id": 5
+    }
+  ],
+  "blogs": [
+    {
+      "title": "adventure is fun",
+      "category": "Adventure",
+      "content": "therer ierug zkufdhb",
+      "timestamp": "2021-05-13T15:56:11.385Z",
+      "likes": 0,
+      "comment": "",
+      "id": 1
+    },
+    {
+      "title": "java",
+      "category": "Technology",
+      "content": "this is a tech",
+      "timestamp": "2021-05-13T16:05:06.290Z",
+      "likes": 0,
+      "comment": "",
+      "id": 2
+    },
+    {
+      "title": "php",
+      "category": "Technology",
+      "content": "this is php",
+      "timestamp": "2021-05-13T16:05:36.554Z",
+      "likes": 0,
+      "comment": "",
+      "id": 3
+    },
+    {
+      "title": "angular",
+      "category": "Technology",
+      "content": "this is angular",
+      "timestamp": "2021-05-13T16:06:03.999Z",
+      "likes": 0,
+      "comment": "",
+      "id": 4
+    },
+    {
+      "title": "ruby",
+      "category": "tec",
+      "content": "\n",
+      "timestamp": "2021-05-13T16:08:23.867Z",
+      "likes": 0,
+      "comment": "",
+      "id": 5
+    },
+    {
+      "title": "java",
+      "category": "Technology",
+      "content": "this is my code",
+      "timestamp": "2021-05-13T17:27:26.803Z",
+      "likes": 0,
+      "comment": "",
+      "id": 6
+    },
+    {
+      "title": "java",
+      "category": "Entertainment",
+      "content": "khsdb ksdhbf kdjf",
+      "timestamp": "2021-05-13T17:28:06.927Z",
+      "likes": 0,
+      "comment": "",
+      "id": 7
+    }
+  ]
+}

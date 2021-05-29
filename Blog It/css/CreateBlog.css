@@ -1,0 +1,34 @@
+
+    
+
+
+body{
+ background-image: url(https://source.unsplash.com/1600x900/?books,pen,blogs,dark);
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: 100% 100%;
+}
+
+.author{
+    color:whitesmoke;
+    padding-left:25px ;
+    font-size:x-large;
+    font-family: 'Times New Roman';
+    font-weight: 400;
+   
+}
+#email{
+    color:whitesmoke;
+    padding-left:25px ;
+    font-size:x-large;
+    font-family: 'Times New Roman';
+    font-weight: 400;
+   
+}
+.userdetails{
+    background-color:grey;
+}
+
+
+
+
